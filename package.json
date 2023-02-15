@@ -2,7 +2,7 @@
   "name": "react-shopping-cart",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mansurnarkulyyev.github.io/typescript-react-shopping-card",
+  "homepage": "https://mansurnarkulyyev.github.io/shopping-card-",
   "dependencies": {
     "@material-ui/core": "^4.11.2",
     "@material-ui/icons": "^4.11.2",
